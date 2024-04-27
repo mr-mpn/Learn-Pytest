@@ -1,0 +1,1 @@
+Parameterized testing in Pytest allows testing with different values without messy loops. Useful for testing the same scenario with different inputs.
